@@ -2,5 +2,4 @@ Git practicing
 Basic work flow
 .git add
 .git commit
-.git diff
 .git branch
